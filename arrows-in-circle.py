@@ -1,5 +1,4 @@
-# turtleGraphics_arrows-in--circle
-
+# turtleGraphics_arrows-in-circle
 #   the start point is 0, 0
 #   the subsequent start point is the current pen location
 #
@@ -109,5 +108,3 @@ turtle.end_fill()
 turtle.penup()
 turtle.goto(0, -(rad2 + 200))
 turtle.done()
-
-
